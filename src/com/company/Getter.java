@@ -1,4 +1,4 @@
-package com.company;
+package com.company; //Taklif jalaseh 3 ===> Tamrin manzel 2
 import java.util.Scanner;
 
 public class Getter {
