@@ -1,4 +1,4 @@
-package com.company;
+package com.company; //taklif jalaseh 3 ===> tamrinc kelasi
 
 public class ChildUni extends ParentUni {
 
