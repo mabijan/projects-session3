@@ -1,4 +1,5 @@
-package com.company;
+package com.company; //Taklif jalaseh 3 ===> Tamrin manzel 2
+
 import java.util.Objects;
 import java.util.Scanner;
 public class Courses {
