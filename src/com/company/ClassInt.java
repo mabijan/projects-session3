@@ -1,4 +1,4 @@
-package com.company;
+package com.company; //taklif jalaseh 3 ===> tamrin manzel 3
 
 public class ClassInt implements MyInteger {
     int num1;
