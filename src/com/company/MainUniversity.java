@@ -1,4 +1,4 @@
-package com.company;
+package com.company; //Taklif jalaseh 3 ===> Tamrin kelasi
 
 public class MainUniversity {
 
